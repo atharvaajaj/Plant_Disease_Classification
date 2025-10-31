@@ -95,8 +95,7 @@ The trained model was deployed on **Hugging Face Spaces** using **Streamlit**.
 
 Below is a visual representation of the system workflow — from image input to cloud deployment:
 
-*<img width="960" height="507" alt="image" src="https://github.com/user-attachments/assets/2e48a550-64d3-4b07-9151-14dcc970b039" />
-*
+*<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cc606f95-0252-4af2-8678-f9aa01fb03b0" />*
 
 ---
 
@@ -154,6 +153,7 @@ Below is a visual representation of the system workflow — from image input to 
 - [OpenCV](https://opencv.org/)  
 - [Kaggle Plant Disease Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)  
 - [Hugging Face Spaces](https://huggingface.co/spaces)
+
 
 
 
